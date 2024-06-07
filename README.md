@@ -1,1 +1,3 @@
-# Face-Recognition
+- preprocessing.ipynb : Thu thập dữ liệu bằng webcam,tiền xử lý và tăng cường dữ liệu
+- model.ipynb : Train mô hình CNN, giảm chiều dữ liệu với PCA sau đó dùng dữ liệu sau khi giảm chiều để train SVM, đánh giá mô hình bằng cross-validation.
+- load2.ipynb : Test mô hình nhận diện với ảnh không nằm trong dataset
